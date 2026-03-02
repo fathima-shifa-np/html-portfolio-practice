@@ -11,4 +11,4 @@ This is my personal portfolio website created using HTML.
 - HTML
 
 ## Author
-Fathima Shifa
+Fathima Shifa NP
